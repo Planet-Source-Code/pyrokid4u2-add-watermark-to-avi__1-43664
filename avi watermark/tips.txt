@@ -1,0 +1,12 @@
+The Sample Movie window will show you (to proportion) what the saved AVI will look like. It shows the transparency, the watermark image, and the allignment.
+Pressing the Load Watermark button allows you to choose your own watermark.
+Choosing the allignment below the preview window will decide where the watermark is placed. If unchanged the allignment will be center.
+You can change the transparency of the watermark by moving the slider to the right of the Sample Movie window.
+Checking the preview option allows you to see a preview during the appending and rendering process.
+If the preview option is selected, you will be shown a full preview (before the appending process) of the first frame of the AVI with the watermark. Then you will be asked if you want to continue.
+When you press the save button and type in a filename, a dialog will appear. You can use this to select different encoding options.
+AVI Watermark uses VB and API, yet no MCI API is used.
+You can borrow code from my program, but if you do so, please give me credit.
+Ray Mercer is the writer of a lot of code within this program. You can visit his website at http://www.shrinkwrapvb.com
+You can contact me at PyroKid4u2@hotmail.com
+You can vote for this program at http://www.planetsourcecode.com
